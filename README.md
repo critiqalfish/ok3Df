@@ -18,8 +18,8 @@ i was interested in 3D graphics and made this lol
 - F to change focused object
 - U to change between object and camera mode
 ### plans?
-- triangles in order to construct things  
-- support for maybe obj files or similar in order to make utah teapot
-- make it less weird
-- add rendering boundaries to reduce visual glitches
-- rewrite in c or c++
+- [ ] triangles in order to construct things  
+- [ ] support for maybe obj files or similar in order to make utah teapot
+- [ ] make it less weird
+- [ ] add rendering boundaries to reduce visual glitches
+- [ ] rewrite in c or c++
